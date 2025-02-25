@@ -3,18 +3,18 @@
 ¿Cómo funciona?
 El programa tiene un menú interactivo con cuatro opciones principales:
 
-1️⃣ Agregar una tarea:
+1️ Agregar una tarea:
 
 El usuario escribe la descripción de la tarea y elige su prioridad (Alta, Media o Baja).
 La tarea se guarda en una lista según su prioridad.
-2️⃣ Ver las tareas pendientes:
+2️ Ver las tareas pendientes:
 
 Muestra todas las tareas organizadas por prioridad.
 Si no hay tareas registradas, muestra un mensaje indicando que la lista está vacía.
-3️⃣ Marcar una tarea como completada:
+3️ Marcar una tarea como completada:
 
 Muestra una lista numerada con todas las tareas.
 El usuario selecciona una y se elimina de la lista.
-4️⃣ Salir:
+4️ Salir:
 
 Finaliza la ejecución del programa.
